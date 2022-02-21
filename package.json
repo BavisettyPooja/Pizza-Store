@@ -2,7 +2,7 @@
   "name": "pizza_store",
   "homepage": "https://BavisettyPooja.github.io/Pizza-Store/",
   "version": "0.1.0",
-  "private": true,
+  "private": false,
   "dependencies": {
     "@testing-library/jest-dom": "^5.15.0",
     "@testing-library/react": "^11.2.7",
