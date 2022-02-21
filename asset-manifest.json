@@ -1,0 +1,36 @@
+{
+  "files": {
+    "main.css": "/Pizza-Store/static/css/main.449637ee.chunk.css",
+    "main.js": "/Pizza-Store/static/js/main.16af10c0.chunk.js",
+    "main.js.map": "/Pizza-Store/static/js/main.16af10c0.chunk.js.map",
+    "runtime-main.js": "/Pizza-Store/static/js/runtime-main.71a1cf7f.js",
+    "runtime-main.js.map": "/Pizza-Store/static/js/runtime-main.71a1cf7f.js.map",
+    "static/css/2.383c0125.chunk.css": "/Pizza-Store/static/css/2.383c0125.chunk.css",
+    "static/js/2.d77b06ad.chunk.js": "/Pizza-Store/static/js/2.d77b06ad.chunk.js",
+    "static/js/2.d77b06ad.chunk.js.map": "/Pizza-Store/static/js/2.d77b06ad.chunk.js.map",
+    "index.html": "/Pizza-Store/index.html",
+    "static/css/2.383c0125.chunk.css.map": "/Pizza-Store/static/css/2.383c0125.chunk.css.map",
+    "static/css/main.449637ee.chunk.css.map": "/Pizza-Store/static/css/main.449637ee.chunk.css.map",
+    "static/js/2.d77b06ad.chunk.js.LICENSE.txt": "/Pizza-Store/static/js/2.d77b06ad.chunk.js.LICENSE.txt",
+    "static/media/featured3.66d68644.jpg": "/Pizza-Store/static/media/featured3.66d68644.jpg",
+    "static/media/pizza-1.8e3e9966.jpg": "/Pizza-Store/static/media/pizza-1.8e3e9966.jpg",
+    "static/media/pizza-2.e103d354.jpg": "/Pizza-Store/static/media/pizza-2.e103d354.jpg",
+    "static/media/pizza-3.f2f9b9a4.jpg": "/Pizza-Store/static/media/pizza-3.f2f9b9a4.jpg",
+    "static/media/product-1.36d084f3.jpg": "/Pizza-Store/static/media/product-1.36d084f3.jpg",
+    "static/media/product-2.4c066971.jpg": "/Pizza-Store/static/media/product-2.4c066971.jpg",
+    "static/media/product-3.115cc32b.jpg": "/Pizza-Store/static/media/product-3.115cc32b.jpg",
+    "static/media/sweet-2.d5cf1ad2.jpg": "/Pizza-Store/static/media/sweet-2.d5cf1ad2.jpg",
+    "static/media/sweet-3.badeecbe.jpg": "/Pizza-Store/static/media/sweet-3.badeecbe.jpg",
+    "static/media/sweet.3fb051b4.jpg": "/Pizza-Store/static/media/sweet.3fb051b4.jpg",
+    "static/media/sweet2.1c39faa9.jpg": "/Pizza-Store/static/media/sweet2.1c39faa9.jpg",
+    "static/media/sweet3.c495c742.jpg": "/Pizza-Store/static/media/sweet3.c495c742.jpg",
+    "static/media/sweet4.0ddc7517.jpg": "/Pizza-Store/static/media/sweet4.0ddc7517.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.71a1cf7f.js",
+    "static/css/2.383c0125.chunk.css",
+    "static/js/2.d77b06ad.chunk.js",
+    "static/css/main.449637ee.chunk.css",
+    "static/js/main.16af10c0.chunk.js"
+  ]
+}
